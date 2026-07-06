@@ -1,0 +1,26 @@
+Row ID,Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,Country,City,State,Postal Code,Region,Product ID,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+10001,CA-2020-100001,2020-01-01,2020-01-04,Standard Class,C10001,Alex Brown,Consumer,United States,Austin,Texas,73301,Central,OFF-PA-10000001,Office Supplies,Paper,Premium A4 Paper,75.0,1,0.0,13.5
+10002,CA-2020-100002,2020-02-02,2020-02-05,Second Class,C10002,Chris Davis,Corporate,United States,Seattle,Washington,98101,West,TEC-PH-10000002,Technology,Phones,Wireless Phone,98.5,2,0.1,14.45
+10003,CA-2020-100003,2020-03-03,2020-03-06,First Class,C10003,Emma Foster,Home Office,United States,Chicago,Illinois,60601,Central,FUR-CH-10000003,Furniture,Chairs,Executive Chair,122.0,3,0.2,13.83
+10004,CA-2020-100004,2020-04-04,2020-04-07,Standard Class,C10004,John Miller,Consumer,United States,Miami,Florida,33101,South,OFF-ST-10000004,Office Supplies,Storage,Storage Box,145.5,4,0.15,18.91
+10005,CA-2020-100005,2020-05-05,2020-05-08,Second Class,C10005,Sophia Wilson,Corporate,United States,Denver,Colorado,80202,West,TEC-AC-10000005,Technology,Accessories,USB Hub,169.0,5,0.05,27.6
+10006,CA-2020-100006,2020-06-06,2020-06-09,First Class,C10006,David Clark,Home Office,United States,Austin,Texas,73301,Central,OFF-PA-10000001,Office Supplies,Paper,Premium A4 Paper,192.5,1,0.0,34.65
+10007,CA-2020-100007,2020-07-07,2020-07-10,Standard Class,C10007,Olivia Moore,Consumer,United States,Seattle,Washington,98101,West,TEC-PH-10000002,Technology,Phones,Wireless Phone,216.0,2,0.1,31.68
+10008,CA-2020-100008,2020-08-08,2020-08-11,Second Class,C10008,Liam Scott,Corporate,United States,Chicago,Illinois,60601,Central,FUR-CH-10000003,Furniture,Chairs,Executive Chair,239.5,3,0.2,27.14
+10009,CA-2020-100009,2020-09-09,2020-09-12,First Class,C10009,Noah Turner,Home Office,United States,Miami,Florida,33101,South,OFF-ST-10000004,Office Supplies,Storage,Storage Box,263.0,4,0.15,34.19
+10010,CA-2020-100010,2020-10-10,2020-10-13,Standard Class,C10010,Ava Hall,Consumer,United States,Denver,Colorado,80202,West,TEC-AC-10000005,Technology,Accessories,USB Hub,286.5,5,0.05,46.8
+10011,CA-2020-100011,2020-11-11,2020-11-14,Second Class,C10011,Mason Young,Corporate,United States,Austin,Texas,73301,Central,OFF-PA-10000001,Office Supplies,Paper,Premium A4 Paper,310.0,1,0.0,55.8
+10012,CA-2020-100012,2020-12-12,2020-12-15,First Class,C10012,Isabella King,Home Office,United States,Seattle,Washington,98101,West,TEC-PH-10000002,Technology,Phones,Wireless Phone,333.5,2,0.1,48.91
+10013,CA-2020-100013,2020-01-13,2020-01-16,Standard Class,C10013,James Allen,Consumer,United States,Chicago,Illinois,60601,Central,FUR-CH-10000003,Furniture,Chairs,Executive Chair,357.0,3,0.2,40.46
+10014,CA-2020-100014,2020-02-14,2020-02-17,Second Class,C10014,Mia Wright,Corporate,United States,Miami,Florida,33101,South,OFF-ST-10000004,Office Supplies,Storage,Storage Box,380.5,4,0.15,49.47
+10015,CA-2020-100015,2020-03-15,2020-03-18,First Class,C10015,Lucas Green,Home Office,United States,Denver,Colorado,80202,West,TEC-AC-10000005,Technology,Accessories,USB Hub,404.0,5,0.05,65.99
+10016,CA-2020-100016,2020-04-16,2020-04-19,Standard Class,C10016,Charlotte Baker,Consumer,United States,Austin,Texas,73301,Central,OFF-PA-10000001,Office Supplies,Paper,Premium A4 Paper,427.5,1,0.0,76.95
+10017,CA-2020-100017,2020-05-17,2020-05-20,Second Class,C10017,Henry Adams,Corporate,United States,Seattle,Washington,98101,West,TEC-PH-10000002,Technology,Phones,Wireless Phone,451.0,2,0.1,66.15
+10018,CA-2020-100018,2020-06-18,2020-06-21,First Class,C10018,Amelia Nelson,Home Office,United States,Chicago,Illinois,60601,Central,FUR-CH-10000003,Furniture,Chairs,Executive Chair,474.5,3,0.2,53.78
+10019,CA-2020-100019,2020-07-19,2020-07-22,Standard Class,C10019,Jack Carter,Consumer,United States,Miami,Florida,33101,South,OFF-ST-10000004,Office Supplies,Storage,Storage Box,498.0,4,0.15,64.74
+10020,CA-2020-100020,2020-08-20,2020-08-23,Second Class,C10020,Harper Perez,Corporate,United States,Denver,Colorado,80202,West,TEC-AC-10000005,Technology,Accessories,USB Hub,521.5,5,0.05,85.18
+10021,CA-2020-100021,2020-09-21,2020-09-24,First Class,C10021,Daniel Reed,Home Office,United States,Austin,Texas,73301,Central,OFF-PA-10000001,Office Supplies,Paper,Premium A4 Paper,545.0,1,0.0,98.1
+10022,CA-2020-100022,2020-10-22,2020-10-25,Standard Class,C10022,Evelyn Cook,Consumer,United States,Seattle,Washington,98101,West,TEC-PH-10000002,Technology,Phones,Wireless Phone,568.5,2,0.1,83.38
+10023,CA-2020-100023,2020-11-23,2020-11-26,Second Class,C10023,Benjamin Ross,Corporate,United States,Chicago,Illinois,60601,Central,FUR-CH-10000003,Furniture,Chairs,Executive Chair,592.0,3,0.2,67.09
+10024,CA-2020-100024,2020-12-24,2020-12-27,First Class,C10024,Grace Murphy,Home Office,United States,Miami,Florida,33101,South,OFF-ST-10000004,Office Supplies,Storage,Storage Box,615.5,4,0.15,80.02
+10025,CA-2020-100025,2020-01-25,2020-01-28,Standard Class,C10025,Leo Kelly,Consumer,United States,Denver,Colorado,80202,West,TEC-AC-10000005,Technology,Accessories,USB Hub,639.0,5,0.05,104.37

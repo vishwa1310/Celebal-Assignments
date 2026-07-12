@@ -1,0 +1,110 @@
+============================================================
+E-Commerce Analytics Reporting Tool
+============================================================
+1. Daily Report
+2. Weekly Report
+3. Monthly Report
+4. Exit
+
+Enter Choice : 1
+
+Generating Daily Report
+
+Enter Start Date (YYYY-MM-DD): 2025-05-01
+Enter End Date (YYYY-MM-DD): 2026-04-28
+
+
+============================================================
+SUMMARY REPORT
+============================================================
+Total Orders      : 503
+Total Revenue     : 83093401.3
+Unique Customers  : 303
+
+Top 3 Products
+1. Shoes - 389
+2. Curtain - 272
+3. Mobile - 258
+
+Comparison With Previous Period
+Orders Change  : 30.65%
+Revenue Change : 27.45%
+
+
+============================================================
+E-Commerce Analytics Reporting Tool
+============================================================
+1. Daily Report
+2. Weekly Report
+3. Monthly Report
+4. Exit
+
+Enter Choice : 2
+
+Generating Weekly Report
+
+Enter Start Date (YYYY-MM-DD): 2025-05-01
+Enter End Date (YYYY-MM-DD): 2026-04-28
+
+
+============================================================
+SUMMARY REPORT
+============================================================
+Total Orders      : 503
+Total Revenue     : 83093401.3
+Unique Customers  : 303
+
+Top 3 Products
+1. Shoes - 389
+2. Curtain - 272
+3. Mobile - 258
+
+Comparison With Previous Period
+Orders Change  : 30.65%
+Revenue Change : 27.45%
+
+
+============================================================
+E-Commerce Analytics Reporting Tool
+============================================================
+1. Daily Report
+2. Weekly Report
+3. Monthly Report
+4. Exit
+
+Enter Choice : 3
+
+Generating Monthly Report
+
+Enter Start Date (YYYY-MM-DD): 2025-05-01
+Enter End Date (YYYY-MM-DD): 2026-04-28
+
+
+============================================================
+SUMMARY REPORT
+============================================================
+Total Orders      : 503
+Total Revenue     : 83093401.3
+Unique Customers  : 303
+
+Top 3 Products
+1. Shoes - 389
+2. Curtain - 272
+3. Mobile - 258
+
+Comparison With Previous Period
+Orders Change  : 30.65%
+Revenue Change : 27.45%
+
+
+============================================================
+E-Commerce Analytics Reporting Tool
+============================================================
+1. Daily Report
+2. Weekly Report
+3. Monthly Report
+4. Exit
+
+Enter Choice : 4
+
+Thank You!

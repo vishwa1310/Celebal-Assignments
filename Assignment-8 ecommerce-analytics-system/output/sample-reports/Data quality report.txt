@@ -1,0 +1,67 @@
+============================================================
+                 DATA QUALITY REPORT
+============================================================
+
+Dataset Summary
+------------------------------------------------------------
+Customers   : 500 Records
+Products    : 500 Records
+Orders      : 1000 Records
+Order Items : 3000 Records
+
+------------------------------------------------------------
+CUSTOMERS
+------------------------------------------------------------
+Missing Values      : 0
+Duplicate Rows      : 0
+Invalid Emails      : 14
+
+------------------------------------------------------------
+PRODUCTS
+------------------------------------------------------------
+Missing Values      : 0
+Duplicate Rows      : 0
+Product Name Issues : 49
+
+------------------------------------------------------------
+ORDERS
+------------------------------------------------------------
+Missing Values (Customer ID) : 57
+Duplicate Rows               : 0
+Wrong Date Format            : 0
+
+------------------------------------------------------------
+ORDER ITEMS
+------------------------------------------------------------
+Missing Values      : 0
+Duplicate Rows      : 0
+Negative Quantity   : 86
+Invalid Order IDs   : 39
+
+============================================================
+VALIDATION AFTER CLEANING
+============================================================
+
+Customers
+- Missing Values : 0
+- Duplicate Rows : 0
+
+Products
+- Missing Values : 0
+- Duplicate Rows : 0
+
+Orders
+- Missing Values : 0
+- Duplicate Rows : 0
+
+Order Items
+- Missing Values : 0
+- Duplicate Rows : 0
+
+============================================================
+STATUS : SUCCESS
+============================================================
+
+✔ All cleaned CSV files were generated successfully.
+✔ Data validation completed successfully.
+✔ Cleaned datasets saved in the data/cleaned directory.

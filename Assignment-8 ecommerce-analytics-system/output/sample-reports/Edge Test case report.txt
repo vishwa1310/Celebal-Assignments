@@ -1,0 +1,20 @@
+============================================================
+EDGE CASE TEST REPORT
+============================================================
+
+Test 1 : Invalid Order ID
+PASS
+
+Test 2 : Discount Greater Than 100
+PASS
+
+Test 3 : Quantity Equal To Zero
+PASS
+
+Test 4 : Future Order Date
+FAIL
+Future Orders : 3
+
+============================================================
+Testing Completed
+============================================================
